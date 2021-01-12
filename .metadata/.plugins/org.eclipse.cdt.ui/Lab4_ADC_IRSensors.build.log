@@ -1,0 +1,15 @@
+
+**** Clean-only build of configuration Debug for project Lab4_ADC_IRSensors ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 8 clean -O 
+ 
+DEL /F  "Lab4_ADC_IRSensors.hex"  "Lab4_ADC_IRSensors.out" 
+DEL /F "ADC14.obj" "Clock.obj" "CortexM.obj" "IRDistance.obj" "LPF.obj" "Lab4_ADCmain.obj" "LaunchPad.obj" "TimerA1.obj" "UART0.obj" "startup_msp432p401r_ccs.obj" "system_msp432p401r.obj" 
+DEL /F "ADC14.d" "Clock.d" "CortexM.d" "IRDistance.d" "LPF.d" "Lab4_ADCmain.d" "LaunchPad.d" "TimerA1.d" "UART0.d" "startup_msp432p401r_ccs.d" "system_msp432p401r.d" 
+Could Not Find D:\SchoolWork\Y2S1\Microprocessors\CE2007Labs-Students-17072019\CE2007-Students\Lab4_ADC_IRSensors\Debug\Lab4_ADC_IRSensors.hex
+Could Not Find D:\SchoolWork\Y2S1\Microprocessors\CE2007Labs-Students-17072019\CE2007-Students\Lab4_ADC_IRSensors\Debug\ADC14.obj
+Could Not Find D:\SchoolWork\Y2S1\Microprocessors\CE2007Labs-Students-17072019\CE2007-Students\Lab4_ADC_IRSensors\Debug\ADC14.d
+'Finished clean'
+ 
+
+**** Build Finished ****

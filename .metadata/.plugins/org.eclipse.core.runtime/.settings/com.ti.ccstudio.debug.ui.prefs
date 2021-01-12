@@ -1,0 +1,4 @@
+MODULES_MRU_PATH=C\:\\temp\\CE2007\\RSLKSelfTest.out\#THREAD_IDS\#Texas Instruments XDS110 USB Debug Probe/CORTEX_M4_0
+eclipse.preferences.version=1
+symbolAutoCompleteHistory<seperator>org.eclipse.cdt.dsf.debug.ui.disassembly.view<seperator>Texas\ Instruments\ XDS110\ USB\ Debug\ Probe\\CORTEX_M4_0=Port1_Init,Port1_Output
+useAnnotationsPrefPage=true

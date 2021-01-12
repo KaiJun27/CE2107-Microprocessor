@@ -1,0 +1,15 @@
+
+**** Clean-only build of configuration Debug for project Lab4_TimerCapture_Tach ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 8 clean -O 
+ 
+DEL /F  "Lab4_TimerCapture_Tach.hex"  "Lab4_TimerCapture_Tach.out" 
+DEL /F "Bump.obj" "Clock.obj" "CortexM.obj" "Lab4_Tachmain.obj" "LaunchPad.obj" "Motor.obj" "PWM.obj" "SysTick.obj" "TA3InputCapture.obj" "TExaS.obj" "TimerA1.obj" "UART0.obj" "startup_msp432p401r_ccs.obj" "system_msp432p401r.obj" 
+DEL /F "Bump.d" "Clock.d" "CortexM.d" "Lab4_Tachmain.d" "LaunchPad.d" "Motor.d" "PWM.d" "SysTick.d" "TA3InputCapture.d" "TExaS.d" "TimerA1.d" "UART0.d" "startup_msp432p401r_ccs.d" "system_msp432p401r.d" 
+Could Not Find D:\SchoolWork\Y2S1\Microprocessors\CE2007Labs-Students-17072019\CE2007-Students\Lab4_TimerCapture_Tach\Debug\Lab4_TimerCapture_Tach.hex
+Could Not Find D:\SchoolWork\Y2S1\Microprocessors\CE2007Labs-Students-17072019\CE2007-Students\Lab4_TimerCapture_Tach\Debug\Bump.obj
+Could Not Find D:\SchoolWork\Y2S1\Microprocessors\CE2007Labs-Students-17072019\CE2007-Students\Lab4_TimerCapture_Tach\Debug\Bump.d
+'Finished clean'
+ 
+
+**** Build Finished ****

@@ -1,0 +1,15 @@
+
+**** Clean-only build of configuration Debug for project Lab3ref_SimpleMotors ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 8 clean -O 
+ 
+DEL /F  "Lab3ref_SimpleMotors.hex"  "Lab3ref_SimpleMotors.out" 
+DEL /F "Bump.obj" "Clock.obj" "LaunchPad.obj" "MotorSimple.obj" "Simple_Motorsmain.obj" "SysTick.obj" "startup_msp432p401r_ccs.obj" "system_msp432p401r.obj" 
+DEL /F "Bump.d" "Clock.d" "LaunchPad.d" "MotorSimple.d" "Simple_Motorsmain.d" "SysTick.d" "startup_msp432p401r_ccs.d" "system_msp432p401r.d" 
+Could Not Find D:\SchoolWork\Y2S1\Microprocessors\CE2007Labs-Students-17072019\CE2007-Students\Lab3ref_SimpleMotors\Debug\Lab3ref_SimpleMotors.hex
+Could Not Find D:\SchoolWork\Y2S1\Microprocessors\CE2007Labs-Students-17072019\CE2007-Students\Lab3ref_SimpleMotors\Debug\Bump.obj
+Could Not Find D:\SchoolWork\Y2S1\Microprocessors\CE2007Labs-Students-17072019\CE2007-Students\Lab3ref_SimpleMotors\Debug\Bump.d
+'Finished clean'
+ 
+
+**** Build Finished ****
